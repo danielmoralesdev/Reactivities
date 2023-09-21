@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "Persistence\Persistence.csproj", "{1C164FF1-77C2-47F6-9FC5-107C70BD0FD5}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "client-app", "client-app\client-app.esproj", "{526271B7-F056-4717-BC37-79BE0144F52B}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "client-app2", "client-app\client-app2.esproj", "{526271B7-F056-4717-BC37-79BE0144F52B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
